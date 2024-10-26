@@ -1,0 +1,13 @@
+{
+  "name": "DeautherX for 0.96 I2C OLED Display",
+  "version": "1",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        { "path": "firmware/096.bin", "offset": 0 }
+
+      ]
+    }
+  ]
+}

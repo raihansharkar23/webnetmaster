@@ -1,6 +1,6 @@
 {
-  "name": "Reset ESP8266",
-  "version": "1",
+  "name": "Reset",
+  "version": "ESP8266",
   "builds": [
     {
       "chipFamily": "ESP8266",
